@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vamsikrishna
+- 👋 Hi, I’m vamsi krishna
 - 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently studying Mtech 2nd year( Computer Science and Information Security) at NITK, Surathkal
 - 💞️ I’m the placement co ordinator of Computer Science and Engineering department 
